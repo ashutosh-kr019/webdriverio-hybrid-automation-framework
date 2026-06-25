@@ -82,30 +82,63 @@ automation-framework
 - Data Driven Testing
 
 ## Execute Tests
-Run Web Tests   -> npm run test:web
-Run API Tests   -> npm run test:api
-Run Moile Tests -> npm run test:mobile
+
+### Run Web Tests
+
+```bash
+npm run test:web
+```
+
+### Run API Tests
+
+```bash
+npm run test:api
+```
+
+### Run Mobile Tests
+
+```bash
+npm run test:mobile
+```
+
+---
 
 ## Generate Allure Report
+
+```bash
 allure generate reports/allure-results --clean -o reports/allure-report
+
 allure open reports/allure-report
+```
+
+---
 
 ## Sample Coverage
-=>Web
-- Login
-- Inventory Validation
-=>API
-- GET User
-- CREATE User
-- UPDATE User
-- DELETE User
-- PATCH User
-- Schema Validation
-=>Mobile
-- Login
-- Inventory Validation
-- Logout
+
+### Web Automation
+
+* Login
+* Inventory Validation
+
+### API Automation
+
+* GET User
+* CREATE User
+* UPDATE User
+* DELETE User
+* PATCH User
+* Schema Validation
+
+### Mobile Automation
+
+* Login
+* Inventory Validation
+* Logout
+
+---
 
 ## Author
 
-Ashutosh Kumar
+**Ashutosh Kumar**
+
+Automation Test Engineer
