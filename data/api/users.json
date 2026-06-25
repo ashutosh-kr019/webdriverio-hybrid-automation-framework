@@ -1,0 +1,21 @@
+{
+  "createUser": {
+    "name": "Ashutosh Kumar",
+    "username": "ashutosh",
+    "email": "ashutosh@test.com"
+  },
+
+  "updateUser": {
+    "name": "Ashutosh Updated",
+    "username": "ashutosh_updated",
+    "email": "updated@test.com"
+  },
+
+  "emptyUser": {},
+
+  "invalidEmailUser": {
+    "name": "Ashutosh",
+    "email": "invalid-email"
+  }
+
+}

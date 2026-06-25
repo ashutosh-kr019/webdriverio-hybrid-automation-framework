@@ -1,0 +1,17 @@
+{
+  "shippingDetails": {
+    "fullName": "Ashutosh Kumar",
+    "address1": "Sector 62",
+    "address2": "Near Metro Station",
+    "city": "Noida",
+    "state": "Uttar Pradesh",
+    "zipCode": "201301",
+    "country": "India"
+  },
+  "paymentDetails": {
+    "name": "Ashutosh Kumar",
+    "cardNumber": "4111111111111111",
+    "expiryDate": "12/30",
+    "securityCode": "123"
+  }
+}
