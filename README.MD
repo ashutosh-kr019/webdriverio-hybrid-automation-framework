@@ -140,5 +140,3 @@ allure open reports/allure-report
 ## Author
 
 **Ashutosh Kumar**
-
-Automation Test Engineer
