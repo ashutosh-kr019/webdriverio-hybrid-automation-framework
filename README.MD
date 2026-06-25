@@ -8,7 +8,7 @@ A scalable automation framework built using WebdriverIO that supports:
 ## Tech Stack
 
 | Tool          | Purpose                |
---------------------------
+| ------------- | ---------------------- |
 | WebdriverIO   | Test Automation        |
 | Mocha         | Test Runner            |
 | Appium        | Mobile Automation      |
@@ -17,8 +17,11 @@ A scalable automation framework built using WebdriverIO that supports:
 | Allure Report | Reporting              |
 | Node.js       | Runtime                |
 
+---
+
 ## Framework Architecture
 
+```text
 automation-framework
 │
 ├── api
@@ -49,6 +52,9 @@ automation-framework
 ├── utils
 │
 └── package.json
+```
+
+
 
 ## Features
  =>Web Automation
